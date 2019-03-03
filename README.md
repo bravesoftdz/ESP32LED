@@ -10,8 +10,8 @@ How to Use ESP32 to Control LED With Delphi Via WiFi
 
 # Features  
 
-- set digital counter via serial communication
-- send text on serial port
+- Control LED With Delphi Via WiFi
+- Save the state of the outputs of an ESP32 in Inifile
 
 
 
