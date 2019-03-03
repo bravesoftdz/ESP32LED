@@ -6,12 +6,13 @@ How to Use ESP32 to Control LED With Delphi Via WiFi
 ## Built With
 
 * [Cindy Component Library](https://sourceforge.net/projects/tcycomponents/files/tcycomponents/) - Cindy Component Library ( by Mauricio )
+* [Arduino core for the ESP32 ](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
 
 
 # Features  
 
-- set digital counter via serial communication
-- send text on serial port
+- Control LED With Delphi Via WiFi
+- Save the state of the outputs of an ESP32 in Inifile
 
 
 
@@ -44,9 +45,7 @@ freely, subject to the following restrictions:
 | --- | --- |
 | .gitignore | Git ignores the files in this file |
 | Circuit ESP32LED.png | circuit |
-| MainSegment.ino  |Ardouino Sketch|
-| Numbers.ino  |Ardouino Sketch|
-| NumbersDP.ino  |Ardouino Sketch|
+| ESP32LED.ino  |Ardouino Sketch|
 | Main.pas | The main view of the programme |
 | ESP32LED.dpk | The compiler project file |
 | ESP32LED.dproj | The MSBUILD project file |
