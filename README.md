@@ -45,9 +45,7 @@ freely, subject to the following restrictions:
 | --- | --- |
 | .gitignore | Git ignores the files in this file |
 | Circuit ESP32LED.png | circuit |
-| MainSegment.ino  |Ardouino Sketch|
-| Numbers.ino  |Ardouino Sketch|
-| NumbersDP.ino  |Ardouino Sketch|
+| ESP32LED.ino  |Ardouino Sketch|
 | Main.pas | The main view of the programme |
 | ESP32LED.dpk | The compiler project file |
 | ESP32LED.dproj | The MSBUILD project file |
