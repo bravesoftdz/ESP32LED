@@ -1,0 +1,10 @@
+*.stat
+*.identcache
+*.local
+*.dsk
+*.dcu
+*.~2~
+*.exe
+*.~dsk
+*.ini
+
