@@ -12,7 +12,7 @@ How to Use ESP32 to Control LED With Delphi Via WiFi
 # Features  
 
 - Control LED With Delphi Via WiFi
-- Save the state of the outputs of an ESP32 in Inifile
+- Save the state of the outputs of ESP32 in Inifile
 
 
 
