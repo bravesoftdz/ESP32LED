@@ -6,6 +6,7 @@ How to Use ESP32 to Control LED With Delphi Via WiFi
 ## Built With
 
 * [Cindy Component Library](https://sourceforge.net/projects/tcycomponents/files/tcycomponents/) - Cindy Component Library ( by Mauricio )
+* [Arduino core for the ESP32 ](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
 
 
 # Features  
